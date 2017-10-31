@@ -55,7 +55,7 @@ function draw()
 { 
   background(0);
   
-  //Creates a 2d texture field, currently disabled since it makes the sketch SLOW
+  //Creates a 2d texture field, currently disabled since it makes the sketch SLOW, By all means turn it on but be warned!
   //CreateNebula();
   
 	//Moves the stars
